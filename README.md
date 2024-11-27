@@ -13,3 +13,10 @@ Main Paper: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversar
 </p>
 
 ### Requirements
+Tested Environment Setup:
+* Python 3.9.13
+* PyTorch >= 1.4.0
+* torchvision >= 0.5.0
+* dominate >= 2.4.0
+* visdom >= 0.1.8.8
+* wandb
